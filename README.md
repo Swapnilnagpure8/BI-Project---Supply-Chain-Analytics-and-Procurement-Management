@@ -1,4 +1,8 @@
-# Supply Chain Analytics and Procurement Management
+# Supply Chain Analytics and Procurement Management 
+![Supplier overview](https://github.com/Swapnilnagpure8/BI-Project---Supply-Chain-Analytics-and-Procurement-Management/assets/152164973/a133c24b-6c07-49b6-a574-b93f11cc2546)
+![volume movement](https://github.com/Swapnilnagpure8/BI-Project---Supply-Chain-Analytics-and-Procurement-Management/assets/152164973/46e6108a-1298-4187-91e3-b9e0f5c34170)
+![Tonnage](https://github.com/Swapnilnagpure8/BI-Project---Supply-Chain-Analytics-and-Procurement-Management/assets/152164973/648368c8-a13c-465d-a2c2-093329cf6911)
+
 
 # Overview  :
 This project involves using Microsoft Power BI to analyze supply chain and procurement data to identify trends, supplier limitations, product-based supplier consolidation, and minimize cost impact to the company. The Accounts Department maintains invoice-level details of all vendors for each part procured, while the Business Planner collects supplier and part level information separately from the Purchase Department. The goal is to create a dashboard that provides insights into procurement trends, supplier limitations, and product-based supplier consolidation to help the Procurement Department make strategic decisions.
@@ -44,3 +48,4 @@ The Power BI dashboard includes features such as:
 The Supply Chain Analytics and Procurement Management project leverages Microsoft Power BI to analyze supply chain and procurement data, providing valuable insights for strategic decision-making by the Procurement Department.
  
 For any inquiries or questions regarding the project, please contact Swapnil Nagpure , Email - swapnilnagpure8@gmail.com 
+
